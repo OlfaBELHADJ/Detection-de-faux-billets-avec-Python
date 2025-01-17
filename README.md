@@ -1,4 +1,8 @@
-**Mise en situation**:
+# DETECTION DE FAUX BILLETS AVEC PYTHON
+
+Ce projet s'inscrit dans le cadre de ma formation Data Analyst d'OpenClassrooms. 
+
+## Mise en situation
 
 ![image](https://github.com/user-attachments/assets/dd017bee-d2bb-4943-b4b2-e1788fe693b3)
 
@@ -9,7 +13,7 @@ Celle-ci leur permettra, après avoir scanné des billets (longueur, hauteur, la
 L’agence européenne EMV (European Monetary Verification), en charge du faux monnayage, recommande de tester 4 algorithmes :
 K-means, Régression logistique, KNN, Random Forest. 
 
-**Mission**:
+## Mission
 
 -Preparation, analyse des données.
 
@@ -17,7 +21,7 @@ K-means, Régression logistique, KNN, Random Forest.
 
 -Choix de l'algorithme avec la meilleure prédiction possible. 
 
-**Compétences**:
+## Compétences
 
 -Se familiariser avec les algorithmes de prédiction type Régression logistique, K-means, Random Forest...
 
